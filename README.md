@@ -20,7 +20,7 @@ The analysis works by tackling the problem of classifying the message from three
 
 This analysis is compiled to a score between 0 and 100 that is presented to the user in their app.
 
-## Learn More About The Project ![Here]([./assets/db_ex.png](https://artiomadam.github.io/SmishingPoster/))
+## Learn More About The Project [Here]([./assets/db_ex.png](https://artiomadam.github.io/SmishingPoster/))
 
 ## Screenshots
 
